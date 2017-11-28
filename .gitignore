@@ -1,2 +1,6 @@
 
 .idea/
+
+data/consumer-key
+data/access-token
+data/tags.json
